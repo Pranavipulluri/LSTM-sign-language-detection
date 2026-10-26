@@ -110,8 +110,8 @@ Realtime-Sign-Language-Detection-Using-LSTM-Model/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Pranavipulluri/Sign-Language.git
-   cd Sign-Language
+   git clone https://github.com/Pranavipulluri/LSTM-sign-language-detection.git
+   cd LSTM-sign-language-detection
    ```
 
 2. **Create a Python 3.9 virtual environment**
