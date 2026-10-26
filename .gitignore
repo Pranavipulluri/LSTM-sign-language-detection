@@ -1,8 +1,10 @@
-# Virtual environment
+# Virtual environments (any folder)
 lstm_env/
+echo/
 venv/
 env/
 .env/
+*env/
 
 # Training data (numpy arrays - too many files)
 MP_Data/
